@@ -1,2 +1,2 @@
 # Análisis exploratorio en R
-Se puede ejecutar en google colab sólo cambiando el entorno de ejecución a R.
+Libreta de realizada con Jupyter en google colab con entorno de ejecución en R.
